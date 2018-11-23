@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">10 of The Most Famous Entrepreneurs in The World</string>
+    Di dunia ini telah banyak bermunculan pengusaha-pengusaha besar yang mungkin sebagian telah anda
+    kenal namanya. Ketika itu apakah anda pernah berfikir gimana orang - orang itu bisa sesukses dan
+    seterkenal sekarang ? Gimana perjuangan perjuangan yang telah mereka lalui dari pertama kali
+    mulai menjalankan bisnisnya. Gimana mereka bisa menghadapi resiko kegagalan yang telah mereka
+    lalui. Jika anda membaca kisahnya itu akan menjadi cerita bagus, dan akan memotivasi kalian. Nah
+    kali ini disini saya akan memberi tahu kalian 10 pengusaha terkenal yang ada didunia ini berikut
+    dengan kisahnya.
+
+    <string-array name="namaPengusaha">
+        <item>Donald Trump</item>
+        <item>Mark Zuckerberg</item>
+        <item>Richard Branson</item>
+        <item>Steve Jobs</item>
+        <item>Anita Roddick</item>
+        <item>Bill Gates</item>
+        <item>Coco Chanel</item>
+        <item>Sergey Brin</item>
+        <item>Larry Page</item>
+        <item>Duncan Bannatyne</item>
+    </string-array>
+
+    <string-array name="perusahaan">
+        <item>The Owner of The Trump Organization</item>
+        <item>CEO of Facebook</item>
+        <item>CEO of Virgin Group</item>
+        <item>CEO of Apple</item>
+        <item>CEO of The Body Shop</item>
+        <item>Ex-CEO Microsoft</item>
+        <item>The Founder of Chanel</item>
+        <item>Founder of Google</item>
+        <item>Founder of Google</item>
+        <item>Entrepeneur, Writer and philanthropic</item>
+    </string-array>
+
+    <string-array name="detailPengusaha">
+        <item>Pada bulan September 2013, kekayaan Donald Trump bernilai sekitar $ 3,5 miliar. Pada tahun 1971, beliau diberi kontrol perusahaan real estate ayahnya dan menamainya The Trump Organization.
+
+Keberhasilan ini berlanjut pada tahun 1980 ketika beliau membuka Grand Hyatt, yang membuatnya menjadi salah satu developer/pengembang yang paling terkenal di Manhattan.
+
+Dia telah menikmati kesuksesan media dengan membintangi channel NBC yang terkenal dengan seri reality “The Apprentice”, yang sukses bersamaan dengan spin-off-nya The Celebrity Apprentice.
+
+Dalam beberapa tahun terakhir, Trump telah mengungkapkan ambisi untuk menjadi calon presiden. Pada tahun 2013, Trump menghabiskan lebih dari $ 1 juta untuk penelitian possible run bagi presiden Amerika Serikat pada tahun 2016. Hanya waktu yang akan memberitahu usaha berikutnya tokoh terkenal dari Manhattan ini.
+
+</item>
+        <item>
+            Mark Zuckerberg adalah seorang programmer komputer Amerika Serikat yang sangat sukses, terkenal di seluruh dunia sebagai salah satu pendiri situs jejaring sosial Facebook. Efektif per April 2013, Zuckerberg adalah ketua dan kepala eksekutif dari Facebook, Inc dan memiliki nilai kekayaan sekitar $ 27900000000.
+
+ketajaman kewirausahaannya terbukti dari usia muda ketika ia dan rekan sekamar perguruannya Eduardo Saverin, Andrew McCollum, Dustin Moskovitz dan Chris Hughes, meluncurkan Facebook dari kamar asrama Harvard mereka.
+
+Kelompok ini berhasil memperkenalkan Facebook ke kampus-kampus lain di seluruh Amerika Serikat. Pada usia hanya 23 tahun, Zuckerberg menjadi miliarder karena keberhasilan mengejutkan dari Facebook di seluruh dunia.
+        </item>
+
+        <item>
+            Richard Branson adalah pemilik Virgin Group, sebuah organisasi yang sekarang memegang lebih dari 200 perusahaan di lebih dari 30 negara. keterampilan kewirausahaan Branson terlihat jelas dalam perkembangan perusahaannya. Ia telah memperluas bisnisnya dengan mencakup sebuah perusahaan kereta api, melestarikan permainan mewah, perusahaan telepon seluler dan bahkan mendirikan perusahaan pariwisata luar angkasa, yaitu Virgin Galactic.
+
+Sikap petualang kewirausahaan Branson bahkan telah diperluas untuk prestasi pribadinya. Dia telah memecahkan rekor dunia, yaitu melintasi kedua Samudra Atlantik dan Pasifik dengan balon udara panas di masing-masing tahun 1987 dan 1991. Branson adalah seorang self-made dan orang yang sukses luar biasa. Kekayaannya sekarang diperkirakan senilai $ 2,5 milyar ditambah dengan dua pulau pribadi.
+
+
+        </item>
+
+        <item>
+            Steve Jobs dikenang oleh banyak orang sebagai seorang pengusaha, marketer serta penemu yang sangat sukses dan inovatif. Dia adalah co-founder, chairman dan CEO dari Apple Inc.
+
+Dia digembar-gemborkan oleh banyak orang sebagai seorang pengusaha dan penemu karismatik juga inovatif, yang secara signifikan merevolusi komputer dan bidang elektronik konsumen.
+
+Presentasi karismatik Jobs telah mengilhami generasi tokoh bisnis seperti Wilson Luna. Jobs juga ikut mendirikan Pixar Animation Studios dan menjadi anggota dewan direksi The Walt Disney Company pada tahun 2006 ketika Disney mengakuisisi Pixar. Kesuksesannya berasal dari ketekunan dan etos kerja yang mengesankan. Beliau mengabdikan dirinya untuk proyek-proyek. Beliau juga memiliki wawasan kreatif dan teknologi yang mencengangkan.
+        </item>
+
+        <item>
+            Nyonya Anita Roddick yang dikenal sebagai pendiri The Body Shop, sebuah perusahaan kosmetik yang memproduksi produk kecantikan alami secara retail.
+
+Roddick yang merevolusi konsumerisme etis sebagai perusahaannya adalah salah satu perusahaan yang pertama kali melarang penggunaan bahan diuji pada hewan dan mempromosikan perdagangan yang adil dengan negara-negara dunia ketiga.
+
+Dia menggunakan “entrepreneurial acumen”-nya untuk aktivisme serta kampanye lingkungan dan sosial, juga menjadi pendiri Children on the Edge pada tahun 1990, sebuah organisasi amal yang membantu anak-anak kurang beruntung di Eropa Timur dan Asia. Penentuan ini untuk kampanye amal membuat Roddick akhirnya ditunjuk sebagai “Dame Commander of the Order” dari Kerajaan Inggris pada tahun 2003.
+
+
+        </item>
+
+        <item>
+            Pada bulan November 2013 lalu, Bill Gates memiliki estimasi kekayaan yang mengejutkan, yaitu senilai $ 76800000000. Gates adalah mantan kepala eksekutif dan ketua Microsoft, perusahaan perangkat lunak komputer pribadi terbesar di dunia, yang ia dirikan bersama Paul Allen.
+
+Gates digembar-gemborkan sebagai salah satu pengusaha paling terkenal dari revolusi dunia komputer. Meskipun ia mendapatkan banyak kritik karena taktik bisnis anti-kompetitifnya, Gates telah memperoleh kekayaan pribadi yang sanga besar dan mendapatkan kesuksesan bisnis. Bahkan ia sering mendapatkan peringkat sebagai salah satu orang terkaya di dunia.
+
+
+        </item>
+
+        <item>
+            Terlahir dengan nama Gabrielle Bonheur Chanel, Coco Chanel adalah seorang perancang busana Perancis dan pendiri merek Chanel. Dia adalah satu-satunya perancang busana yang terdaftar di daftar majalah Time dari 100 orang paling berpengaruh pada abad ke-20.
+
+Chanel merevolusi tren fashion perempuan, memperkenalkan fashion sporty terbaru, serta gaya casual chic yang bertentangan dengan konvensi batasan mode sebelumnya. Wawasan kreatif bisnisnya diperluas ke pasar perhiasan, tas, dan parfum bahkan parfum khasnya, Chanel No 5, yang telah menjadi produk ikonik di seluruh dunia.
+        </item>
+
+        <item>
+            Tokoh ini adalah sisi lain dari Google yang kedua. Brin diperkirakan memiliki kekayaan bernilai $ 24400000000, dan beliau juga memiliki hanya 8% dari perusahaan. Tetapi tampaknya keuntungan ini sudah lebih dari cukup karena Google selalu berinovasi dan berkembang sebagai perusahaan yang sangat sukses.
+
+
+        </item>
+
+        <item>
+            Larry Page adalah ilmuwan komputer Amerika Serikat dan Internet entrepreneur yang mendirikan Google, mesin pencarian internet terbesar di dunia. Pada tahun 2013 dikatakan bahwa kekayaan yang dimiliki beliau bernilai $ 20300000000. Bersama-sama dengan tokoh pada nomor 8 di bawah ini, konon halaman sebenarnya pada internet hanya dimiliki beliau sekitar 8% dari perusahaan. Dan pasti hal inilah yang membuat anda bertanya-tanya :
+
+“Siapa yang memiliki semua sisanya??”
+
+
+        </item>
+
+        <item>
+            Duncan Bannatyne adalah pengusaha sekaligus penulis asal Skotlandia. Keterampilannya dalam berwirausaha meluas di berbagai industri, mulai dari bisnis hotel, klub kesehatan dan spa, media, TV, sekolah panggung, properti, dan transportasi.
+
+Wirausahawan multiplisitas ini disorot oleh program BBC Dragon’s Den. Seperti banyak pengusaha lainnya yang terdaftar pada artikel ini, Bannatyne adalah seorang dermawan dan telah mendapatkan OBE karena partisipasinya menjalankan usaha amal besar dan sumbangan.
+
+Bannatyne telah mengubah kecerdasannya dalam bidang kewirausahaan ke dalam serangkaian buku pendidikan bisnis. Karya-karyanya menunjukkan bagaimana orang bisa menjadi pengusaha sukses jika mereka mau menerapkan caranya sendiri.
+
+Buku-bukunya menawarkan tips berbisnis secara ringkas, dan juga saran tentang cara untuk mengubah hidup anda dan mendapatkan kesuksesan seperti terlihat dalam judul-judul buku yang ia tulis :
+
+Anyone Can Do It, Wake Up and Change Your Life, How to be Smart With Your Money, How to be Smart With Your Time, 43 Mistakes Businesses Make, 37 Questions Everyone in Business Needs to Answer, dan Riding The Storm.
+
+
+        </item>
+    </string-array>
+</resources>
